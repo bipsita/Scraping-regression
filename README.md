@@ -1,0 +1,1 @@
+Regress transit ridership (target) against weather and service change variables to inform transit authorities on the effect of each. Weather and service change data are obtained from scraping websites. 
